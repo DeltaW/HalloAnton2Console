@@ -8,6 +8,7 @@ namespace HalloAnton2 {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("From Damien");
+            Console.WriteLine("From Anton!");
             Console.WriteLine("Hallo Anton und Damien!");
         }
     }
